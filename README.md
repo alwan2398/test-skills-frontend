@@ -4,7 +4,7 @@ Proyek ini adalah aplikasi *mini e-commerce* yang dibangun menggunakan **Next.js
 
 ## 🚀 Teknologi & Arsitektur
 
-*   **Framework:** Next.js 15 (App Router)
+*   **Framework:** Next.js 16 (App Router)
 *   **Styling:** Tailwind CSS
 *   **State Management:** React Context API (Global State)
 *   **Data Source:** PokeAPI v2
