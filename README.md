@@ -1,6 +1,6 @@
 # Pokemon Card Store - Frontend Skill Test - Muhamad Alwan Sholeh 
 
-Proyek ini adalah aplikasi *mini e-commerce* yang dibangun menggunakan **Next.js 15** untuk memenuhi kriteria evaluasi teknis Vontis / Dust Technology. Aplikasi ini mendemonstrasikan konsumsi API, *state management* lokal untuk simulasi keranjang belanja, serta fitur *import* data di sisi *client*.
+Proyek ini adalah aplikasi *mini e-commerce* yang dibangun menggunakan **Next.js 16** untuk memenuhi kriteria evaluasi teknis Vontis / Dust Technology. Aplikasi ini mendemonstrasikan konsumsi API, *state management* lokal untuk simulasi keranjang belanja, serta fitur *import* data di sisi *client*.
 
 ## 🚀 Teknologi & Arsitektur
 
